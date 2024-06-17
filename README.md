@@ -1,6 +1,6 @@
 # target-mssql
 
-`target-mssql` is a Singer target for Microsoft SQL Server databases.
+`target-mssql` is a Singer target for Microsoft SQL Server databases. With changes to ensure compatibility with sql server 2012
 
 Build with the [Meltano Target SDK](https://sdk.meltano.com).
 
